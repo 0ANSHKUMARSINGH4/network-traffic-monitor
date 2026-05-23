@@ -1,0 +1,3 @@
+*.o
+traffic_monitor
+traffic_log.txt
